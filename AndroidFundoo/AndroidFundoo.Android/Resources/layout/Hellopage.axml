@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<TextView
+		android:id="@+id/textView1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:text="Welcome to FundooApp"
+		android:textColor="@android:color/black"
+		android:textSize="20dp"
+		android:textStyle="bold" />
+	<TextView
+		android:id="@+id/textView2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:textAllCaps="true" />
+	<TextView
+		android:id="@+id/textView3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="EMAIL"
+		android:textStyle="bold"
+		android:textSize="25sp"
+		android:layout_marginBottom="30dp"/>
+	<EditText
+		android:inputType="textEmailAddress"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/editText1"
+		android:hint="enter email"
+		
+		android:layout_marginBottom="30dp"/>
+	<TextView
+		android:id="@+id/textView4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Password"
+		android:textStyle="bold"
+		android:textSize="25sp"
+		android:layout_marginBottom="30dp"/>
+	<EditText
+		android:inputType="textEmailAddress"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/editText1"
+		android:hint="enter Password"
+		android:layout_marginBottom="30dp"/>
+	<Button
+		android:text="Submit"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/sumbitbtn" />
+	
+</LinearLayout>

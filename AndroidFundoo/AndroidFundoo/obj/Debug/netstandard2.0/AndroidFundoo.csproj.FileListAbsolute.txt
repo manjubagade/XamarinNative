@@ -1,0 +1,12 @@
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\bin\Debug\netstandard2.0\AndroidFundoo.deps.json
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\bin\Debug\netstandard2.0\AndroidFundoo.dll
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\bin\Debug\netstandard2.0\AndroidFundoo.pdb
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.csprojAssemblyReference.cache
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.csproj.CoreCompileInputs.cache
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.AssemblyInfoInputs.cache
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.AssemblyInfo.cs
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.dll
+E:\AndroidFundoo\AndroidFundoo\AndroidFundoo\obj\Debug\netstandard2.0\AndroidFundoo.pdb
